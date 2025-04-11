@@ -24,7 +24,7 @@ It’s interactive and allows filtering by Student ID, Day, and Attendance statu
 ## 📁 Files Included
 
 - `Student_Performance_Analytics_093.pbix` — Power BI dashboard
-- `student_sensor_data.xlsx` — The dataset used for analysis
+- `student_sensor_data_093.xlsx` — The dataset used for analysis
 - `dashboard_screenshot.png` — (Optional) Visual preview of the dashboard
 
 ## 📌 Features
